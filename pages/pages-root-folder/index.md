@@ -23,12 +23,12 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
-title: "Software Tools & Techniques Lab (UCSD CSE15L)"
+title: "Software Tools & Techniques Lab (UCSD CSE15L S23)"
 ---
 
 Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](https://jpolitz.github.io)
 
-**This is the page for the winter 2023 edition of the course.**
+**This is the page for the spring 2023 edition of the course.**
 
 ## Material and Schedule
 
@@ -46,24 +46,11 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
     {% endfor %}
 </ul>
 
-## Course Calendar
-
-This calendar shows rooms for scheduled in-person lecture and lab meetings.
-
-**If Google Calendar preview doesn't work, use the direct links to:** 
-
-[CSE 15L Winter 2023 Calendar](https://calendar.google.com/calendar/embed?src=c_de29a534b0fd24f875f64582371383ec4456898435a842b7b554ceb65c8388b3%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-
-[CSE 15L WI23 Office Hours Calendar](https://calendar.google.com/calendar/embed?src=c_0e55ffaf101155cc3f8cba81babebfac24c194066f6979efe749c888ca0fadd2%40group.calendar.google.com&ctz=America%2FLos_Angeles)
-
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y18wZTU1ZmZhZjEwMTE1NWNjM2Y4Y2JhODFiYWJlYmZhYzI0YzE5NDA2NmY2OTc5ZWZlNzQ5Yzg4OGNhMGZhZGQyQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y19kZTI5YTUzNGIwZmQyNGY4NzVmNjQ1ODIzNzEzODNlYzQ0NTY4OTg0MzVhODQyYjdiNTU0Y2ViNjVjODM4OGIzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23F09300&color=%233F51B5" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
-<!-- <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&showPrint=1&showCalendars=0&src=Y19kZTI5YTUzNGIwZmQyNGY4NzVmNjQ1ODIzNzEzODNlYzQ0NTY4OTg0MzVhODQyYjdiNTU0Y2ViNjVjODM4OGIzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23B39DDB" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
 
 ## Frequently Asked Questions
 
-**Q: I'm also taking Math 18, or some other course whose final exam time
-overlaps with CSE15L. What should I do?**
+**Q: I'm also taking some other course whose final exam time overlaps with
+CSE15L. What should I do?**
 
 We will have scheduled oral exams in CSE15L with appointment slots.  If you
 don't have the time of the final exam free due to a conflict, you just need to
@@ -95,3 +82,4 @@ Review Java (for example, [CSE11](https://ucsd-cse11-f21.github.io/)). Check
 out some related resources like [MIT missing
 semester](https://missing.csail.mit.edu/). Get enough sleep and set up your
 schedule so you can make the class and lab times. Bookmark this web site! 
+
