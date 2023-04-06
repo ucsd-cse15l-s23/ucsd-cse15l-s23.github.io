@@ -46,6 +46,11 @@ Joe Gibbs Politz - <code>jpolitz@eng.ucsd.edu</code> -  [jpolitz.github.io](http
     {% endfor %}
 </ul>
 
+## Office Hours Calendar
+
+[Direct Link to Office Hours Calendar](https://calendar.google.com/calendar/embed?src=c_2594c7c69d61f7e35289ee52a14649e50725f30c6f3946bbf5eb7d611913c54e%40group.calendar.google.com&ctz=America%2FLos_Angeles)
+
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y18yNTk0YzdjNjlkNjFmN2UzNTI4OWVlNTJhMTQ2NDllNTA3MjVmMzBjNmYzOTQ2YmJmNWViN2Q2MTE5MTNjNTRlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23A79B8E" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Frequently Asked Questions
 
