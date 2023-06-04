@@ -47,7 +47,7 @@ without it impacting your grade (see [Grading](#grading) below).
 ### Lecture Sessions
 
 Lecture sessions are on Monday and Wednesday. You can only attend the section
-(9am or 10am) to which you are assigned. Depending how things go after the first
+(1pm or 2pm) to which you are assigned. Depending how things go after the first
 week or two, we might relax this and allow attendance in either section.
 
 In each lecture, we'll have a paper handout (also available electronically). At
@@ -68,7 +68,7 @@ required submissions and how that correlates with your grade.
 ### Weekly Quizzes
 
 Each week there will be an online, untimed, multiple-tries quiz due on
-_Wednesday at 9 am_ before class (including week 1). The purpose of this quiz is to make sure
+_Wednesday at 1 pm_ before class (including week 1). The purpose of this quiz is to make sure
 everyone has checked in on the concepts we will be using in lab on Wednesday and
 Thursday. They are open for late submission until the end of the quarter, but
 see grading below for how late submissions correspond to grades.
@@ -128,12 +128,13 @@ initially or with the final make-up), and have a submission/attempt for both.
 - **B** achievement:
     - 5 or more lab participation
     - All 5 lab reports completed, at least 2 with full credit/feedback addressed
-    - **Pass** or **Full Pass** on both skill demonstrations (either initially
+    - **Full Pass** on **one** skill demonstration and one **No Pass**, or 
+      **Partial Pass** scores on **both** skill demonstrations (either initially
     or with the final make-up)
 - **C** achievement:
     - 4 or more lab participation
     - At least 3 lab reports completed, at least 2 with full credit/feedback addressed
-    - **Pass** or higher on **one** skill demonstration (either initially or
+    - **Partial Pass** or higher on **one** skill demonstration (either initially or
       with the final make-up), with the other one attempted
 
 Pluses and minuses will be given around the boundaries of these categories at
