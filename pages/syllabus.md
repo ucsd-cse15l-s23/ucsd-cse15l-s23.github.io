@@ -113,11 +113,8 @@ of them, we distinguish the different achievement levels a bit more.)
 Each component of the course has a minimum achievement level to get an A, B, or
 C in the course. You must reach that achievement level in _all_ of the
 categories to get an A, B, or C.
-
-To get a B or better in the course, you must pass **both** skill
-demonstrations.
   
-To pass the course, you must pass **one of two** skill demonstrations (either
+To pass the course, you must receive a partial pass on **one of two** skill demonstrations (either
 initially or with the final make-up), and have a submission/attempt for both.
 
 - **A** achievement:
